@@ -4,7 +4,6 @@
 /* eslint-disable max-statements */
 /* eslint-disable no-console */
 // TODO: 
-//   add multiple API fetches for long lists
 // Ignore basic lands
 // Add link to scryfall page
 // Warn if card isn't commander legal
